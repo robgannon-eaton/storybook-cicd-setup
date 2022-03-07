@@ -10,4 +10,4 @@ export default {
 export const Primary = () => <Button variant = 'primary'>PRIMARY BUTTON!!!!!</Button>
 export const Secondary = () => <Button variant = 'secondary'>Primary</Button>
 export const Success = () => <Button variant = 'success'>Primary</Button>
-export const Danger = () => <Button variant = 'danger'>DO NOT PRESS</Button>
+export const Danger = () => <Button variant = 'danger'>PRESS HERE</Button>
