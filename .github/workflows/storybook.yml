@@ -18,7 +18,7 @@ jobs:
           yarn run build-storybook
       - name: Deploy
         run: |
-          yarn deploy-storybook -- --ci
+          yarn deploy-storybook
        # uses: JamesIves/github-pages-deploy-action@3.6.2
        # with:
        #   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
