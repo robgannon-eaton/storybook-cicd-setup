@@ -7,7 +7,8 @@ export default {
 }
 
 
-export const Primary = () => <Button variant = 'primary'>Primary</Button>
+export const Primary = () => <Button variant = 'primary'>CHANGED</Button>
 export const Secondary = () => <Button variant = 'secondary'>Primary</Button>
 export const Success = () => <Button variant = 'success'>Primary</Button>
 export const Danger = () => <Button variant = 'danger'>Primary</Button>
+
